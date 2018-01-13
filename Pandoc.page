@@ -98,48 +98,48 @@ Pandoc is a command-line tool. There is no graphic user interface. So,
 to use it, you'll need to open a terminal window:
 
 -   On OS X, the Terminal application can be found in
-    &lt;code&gt;/Applications/Utilities&lt;/code&gt;. Open a Finder
-    window and go to &lt;code&gt;Applications&lt;/code&gt;, then
-    &lt;code&gt;Utilities&lt;/code&gt;. Then double click on
-    &lt;code&gt;Terminal&lt;/code&gt;. (Or, click the spotlight icon in
+    `/Applications/Utilities`. Open a Finder
+    window and go to `Applications`, then
+    `Utilities`. Then double click on
+    `Terminal`. (Or, click the spotlight icon in
     the upper right hand corner of your screen and type
-    &lt;code&gt;Terminal&lt;/code&gt; -- you should see
-    &lt;code&gt;Terminal&lt;/code&gt; under
-    &lt;code&gt;Applications&lt;/code&gt;.)
+    `Terminal` -- you should see
+    `Terminal` under
+    `Applications`.)
 -   On Windows, you can use either the classic command prompt or the
     more modern PowerShell terminal. If you use Windows in desktop mode,
-    run the &lt;code&gt;cmd&lt;/code&gt; or
-    &lt;code&gt;powershell&lt;/code&gt; command from the Start menu. If
+    run the `cmd` or
+    `powershell` command from the Start menu. If
     you use the Windows 8 start screen instead, simply type
-    &lt;code&gt;cmd&lt;/code&gt; or &lt;code&gt;powershell&lt;/code&gt;,
+    `cmd` or `powershell`,
     and then run either the &quot;Command Prompt&quot; or &quot;Windows
     Powershell&quot; application.
 -   On Linux, there are many possible configurations, depending on what
     desktop environment you're using:
     -   In Unity, use the search function on the
-        &lt;code&gt;Dash&lt;/code&gt;, and search for
-        &lt;code&gt;Terminal&lt;/code&gt;. Or, use the keyboard shortcut
-        &lt;code&gt;Ctrl-Alt-T&lt;/code&gt;.
-    -   In Gnome, go to &lt;code&gt;Applications&lt;/code&gt;, then
-        &lt;code&gt;Accessories&lt;/code&gt;, and select
-        &lt;code&gt;Terminal&lt;/code&gt;, or use
-        &lt;code&gt;Ctrl-Alt-T&lt;/code&gt;.
-    -   In XFCE, go to &lt;code&gt;Applications&lt;/code&gt;, then
-        &lt;code&gt;System&lt;/code&gt;, then
-        &lt;code&gt;Terminal&lt;/code&gt;, or use
-        &lt;code&gt;Super-T&lt;/code&gt;.
-    -   In KDE, go to &lt;code&gt;KMenu&lt;/code&gt;, then
-        &lt;code&gt;System&lt;/code&gt;, then &lt;code&gt;Terminal
-        Program (Konsole)&lt;/code&gt;.
+        `Dash`, and search for
+        `Terminal`. Or, use the keyboard shortcut
+        `Ctrl-Alt-T`.
+    -   In Gnome, go to `Applications`, then
+        `Accessories`, and select
+        `Terminal`, or use
+        `Ctrl-Alt-T`.
+    -   In XFCE, go to `Applications`, then
+        `System`, then
+        `Terminal`, or use
+        `Super-T`.
+    -   In KDE, go to `KMenu`, then
+        `System`, then `Terminal
+        Program (Konsole)`.
 
 You should now see a rectangle with a &quot;prompt&quot; (possibly just
-a symbol like &lt;code&gt;%&lt;/code&gt;, but probably including more
+a symbol like `%`, but probably including more
 information, such as your username and directory), and a blinking
 cursor.
 
 Let's verify that pandoc is installed. Type
 
-&lt;code&gt;pandoc —version&lt;/code&gt; and hit enter. You should see a
+`pandoc —version` and hit enter. You should see a
 message telling you which version of pandoc is installed, and giving you
 some additional information.
 
@@ -148,37 +148,37 @@ Step 3: Changing directories
 
 First, let's see where we are. Type
 
-&lt;code&gt;pwd&lt;/code&gt; on linux or OSX, or
+`pwd` on linux or OSX, or
 
-&lt;code&gt;echo %cd%&lt;/code&gt; on Windows, and hit enter. Your
+`echo %cd%` on Windows, and hit enter. Your
 terminal should print your current working directory. (Guess what
-&lt;code&gt;pwd&lt;/code&gt; stands for?) This should be your home
+`pwd` stands for?) This should be your home
 directory.
 
-Let's navigate now to our &lt;code&gt;Documents&lt;/code&gt; directory:
+Let's navigate now to our `Documents` directory:
 type
 
-&lt;code&gt;cd Documents&lt;/code&gt; and hit enter. Now type
+`cd Documents` and hit enter. Now type
 
-&lt;code&gt;pwd&lt;/code&gt; (or &lt;code&gt;echo %cd%&lt;/code&gt; on
-Windows) again. You should be in the &lt;code&gt;Documents&lt;/code&gt;
+`pwd` (or `echo %cd%` on
+Windows) again. You should be in the `Documents`
 subdirectory of your home directory. To go back to your home directory,
 you could type
 
-&lt;code&gt;cd ..&lt;/code&gt; The &lt;code&gt;..&lt;/code&gt; means
+`cd ..` The `..` means
 &quot;one level up.&quot;
 
-Go back to your &lt;code&gt;Documents&lt;/code&gt; directory if you're
+Go back to your `Documents` directory if you're
 not there already. Let's try creating a subdirectory called
-&lt;code&gt;pandoc-test&lt;/code&gt;:
+`pandoc-test`:
 
-&lt;code&gt;mkdir pandoc-test&lt;/code&gt; Now change to the
-&lt;code&gt;pandoc-test&lt;/code&gt; directory:
+`mkdir pandoc-test` Now change to the
+`pandoc-test` directory:
 
-&lt;code&gt;cd pandoc-test&lt;/code&gt; If the prompt doesn't tell you
+`cd pandoc-test` If the prompt doesn't tell you
 what directory you're in, you can confirm that you're there by doing
 
-&lt;code&gt;pwd&lt;/code&gt; (or &lt;code&gt;echo %cd%&lt;/code&gt;)
+`pwd` (or `echo %cd%`)
 again.
 
 OK, that's all you need to know for now about using the terminal. But
@@ -192,24 +192,24 @@ backspace/delete key to edit it.
 
 Most terminals also support tab completion of directories and filenames.
 To try this, let's first go back up to our
-&lt;code&gt;Documents&lt;/code&gt; directory:
+`Documents` directory:
 
-&lt;code&gt;cd ..&lt;/code&gt; Now, type
+`cd ..` Now, type
 
-&lt;code&gt;cd pandoc-&lt;/code&gt; and hit the tab key instead of
+`cd pandoc-` and hit the tab key instead of
 enter. Your terminal should fill in the rest
-(&lt;code&gt;test&lt;/code&gt;), and then you can hit enter.
+(`test`), and then you can hit enter.
 
 To review:
 
--   &lt;code&gt;pwd&lt;/code&gt; (or &lt;code&gt;echo %cd%&lt;/code&gt;
+-   `pwd` (or `echo %cd%`
     on Windows) to see what the current working directory is.
--   &lt;code&gt;cd foo&lt;/code&gt; to change to the
-    &lt;code&gt;foo&lt;/code&gt; subdirectory of your working directory.
--   &lt;code&gt;cd ..&lt;/code&gt; to move up to the parent of the
+-   `cd foo` to change to the
+    `foo` subdirectory of your working directory.
+-   `cd ..` to move up to the parent of the
     working directory.
--   &lt;code&gt;mkdir foo&lt;/code&gt; to create a subdirectory called
-    &lt;code&gt;foo&lt;/code&gt; in the working directory.
+-   `mkdir foo` to create a subdirectory called
+    `foo` in the working directory.
 -   up-arrow to go back through your command history.
 -   tab to complete directories and file names.
 
@@ -218,20 +218,20 @@ Step 4: Using pandoc as a filter
 
 Type
 
-&lt;code&gt;pandoc&lt;/code&gt; and hit enter. You should see the cursor
+`pandoc` and hit enter. You should see the cursor
 just sitting there, waiting for you to type something. Type this:
 
-&lt;code&gt;Hello \*pandoc\*!
+`Hello \*pandoc\*!
 
-- one - two&lt;/code&gt; When you're finished (the cursor should be at
-the beginning of the line), type &lt;code&gt;Ctrl-D&lt;/code&gt; on OS X
-or Linux, or &lt;code&gt;Ctrl-Z&lt;/code&gt; followed by
-&lt;code&gt;Enter&lt;/code&gt; on Windows. You should now see your text
+- one - two` When you're finished (the cursor should be at
+the beginning of the line), type `Ctrl-D` on OS X
+or Linux, or `Ctrl-Z` followed by
+`Enter` on Windows. You should now see your text
 converted to HTML!
 
-&lt;code&gt;&lt;p&gt;Hello &lt;em&gt;pandoc&lt;/em&gt;!&lt;/p&gt;
+`&lt;p&gt;Hello &lt;em&gt;pandoc&lt;/em&gt;!&lt;/p&gt;
 &lt;ul&gt; &lt;li&gt;one&lt;/li&gt; &lt;li&gt;two&lt;/li&gt;
-&lt;/ul&gt;&lt;/code&gt; What just happened? When pandoc is invoked
+&lt;/ul&gt;` What just happened? When pandoc is invoked
 without specifying any input files, it operates as a &quot;filter,&quot;
 taking input from the terminal and sending its output back to the
 terminal. You can use this feature to play around with pandoc.
@@ -239,14 +239,14 @@ terminal. You can use this feature to play around with pandoc.
 By default, input is interpreted as pandoc markdown, and output is HTML.
 But we can change that. Let's try converting *from* HTML *to* markdown:
 
-&lt;code&gt;pandoc -f html -t markdown&lt;/code&gt; Now type:
+`pandoc -f html -t markdown` Now type:
 
-&lt;code&gt;&lt;p&gt;Hello
-&lt;em&gt;pandoc&lt;/em&gt;!&lt;/p&gt;&lt;/code&gt; and hit
-&lt;code&gt;Ctrl-D&lt;/code&gt; (or &lt;code&gt;Ctrl-Z&lt;/code&gt;
-followed by &lt;code&gt;Enter&lt;/code&gt; on Windows). You should see:
+`&lt;p&gt;Hello
+&lt;em&gt;pandoc&lt;/em&gt;!&lt;/p&gt;` and hit
+`Ctrl-D` (or `Ctrl-Z`
+followed by `Enter` on Windows). You should see:
 
-&lt;code&gt;Hello \*pandoc\*!&lt;/code&gt; Now try converting something
+`Hello \*pandoc\*!` Now try converting something
 from markdown to LaTeX. What command do you think you should use?
 
 Step 5: Text editor basics
@@ -254,29 +254,29 @@ Step 5: Text editor basics
 
 You'll probably want to use pandoc to convert a file, not to read text
 from the terminal. That's easy, but first we need to create a text file
-in our &lt;code&gt;pandoc-test&lt;/code&gt; subdirectory.
+in our `pandoc-test` subdirectory.
 
 **Important:** To create a text file, you'll need to use a text editor,
 *not* a word processor like Microsoft Word. On Windows, you can use
-Notepad (in &lt;code&gt;Accessories&lt;/code&gt;). On OS X, you can use
-&lt;code&gt;TextEdit&lt;/code&gt; (in
-&lt;code&gt;Applications&lt;/code&gt;). On Linux, different platforms
+Notepad (in `Accessories`). On OS X, you can use
+`TextEdit` (in
+`Applications`). On Linux, different platforms
 come with different text editors: Gnome has
-&lt;code&gt;GEdit&lt;/code&gt;, and KDE has
-&lt;code&gt;Kate&lt;/code&gt;.
+`GEdit`, and KDE has
+`Kate`.
 
 Start up your text editor. Type the following:
 
-&lt;code&gt;\# Test!
+`\# Test!
 
 This is a test of \*pandoc\*.
 
-- list one - list two&lt;/code&gt; Now save your file as
-&lt;code&gt;test1.md&lt;/code&gt; in the directory
-&lt;code&gt;Documents/pandoc-test&lt;/code&gt;.
+- list one - list two` Now save your file as
+`test1.md` in the directory
+`Documents/pandoc-test`.
 
 Note: If you use plain text a lot, you'll want a better editor than
-&lt;code&gt;Notepad&lt;/code&gt; or &lt;code&gt;TextEdit&lt;/code&gt;.
+`Notepad` or `TextEdit`.
 You might want to look at [Sublime Text](http://www.sublimetext.com/) or
 (if you're willing to put in some time learning an unfamiliar interface)
 [Vim](http://www.vim.org/) or
@@ -286,59 +286,59 @@ Step 6: Converting a file
 -------------------------
 
 Go back to your terminal. We should still be in the
-&lt;code&gt;Documents/pandoc-test&lt;/code&gt; directory. Verify that
-with &lt;code&gt;pwd&lt;/code&gt;.
+`Documents/pandoc-test` directory. Verify that
+with `pwd`.
 
 Now type
 
-&lt;code&gt;ls&lt;/code&gt; (or &lt;code&gt;dir&lt;/code&gt; if you're
+`ls` (or `dir` if you're
 on Windows). This will list the files in the current directory. You
-should see the file you created, &lt;code&gt;test1.md&lt;/code&gt;.
+should see the file you created, `test1.md`.
 
 To convert it to HTML, use this command:
 
-&lt;code&gt;pandoc test1.md -f markdown -t html -s -o
-test1.html&lt;/code&gt; The filename &lt;code&gt;test1.md&lt;/code&gt;
-tells pandoc which file to convert. The &lt;code&gt;-s&lt;/code&gt;
+`pandoc test1.md -f markdown -t html -s -o
+test1.html` The filename `test1.md`
+tells pandoc which file to convert. The `-s`
 option says to create a &quot;standalone&quot; file, with a header and
-footer, not just a fragment. And the &lt;code&gt;-o
-test1.html&lt;/code&gt; says to put the output in the file
-&lt;code&gt;test1.html&lt;/code&gt;. Note that we could have omitted
-&lt;code&gt;-f markdown&lt;/code&gt; and &lt;code&gt;-t
-html&lt;/code&gt;, since the default is to convert from markdown to
+footer, not just a fragment. And the `-o
+test1.html` says to put the output in the file
+`test1.html`. Note that we could have omitted
+`-f markdown` and `-t
+html`, since the default is to convert from markdown to
 HTML, but it doesn't hurt to include them.
 
-Check that the file was created by typing &lt;code&gt;ls&lt;/code&gt;
-again. You should see &lt;code&gt;test1.html&lt;/code&gt;. Now open this
+Check that the file was created by typing `ls`
+again. You should see `test1.html`. Now open this
 in a browser. On OS X, you can type
 
-&lt;code&gt;open test1.html&lt;/code&gt; On Windows, type
+`open test1.html` On Windows, type
 
-&lt;code&gt;.\\test1.html&lt;/code&gt; You should see a browser window
+`.\\test1.html` You should see a browser window
 with your document.
 
 To create a LaTeX document, you just need to change the command
 slightly:
 
-&lt;code&gt;pandoc test1.md -f markdown -t latex -s -o
-test1.tex&lt;/code&gt; Try opening &lt;code&gt;test1.tex&lt;/code&gt; in
+`pandoc test1.md -f markdown -t latex -s -o
+test1.tex` Try opening `test1.tex` in
 your text editor.
 
 Pandoc can often figure out the input and output formats from the
 filename extensions. So, you could have just used:
 
-&lt;code&gt;pandoc test1.md -s -o test1.tex&lt;/code&gt; Pandoc knows
+`pandoc test1.md -s -o test1.tex` Pandoc knows
 you're trying to create a LaTeX document, because of the
-&lt;code&gt;.tex&lt;/code&gt; extension.
+`.tex` extension.
 
 Now try creating a Word document (with extension
-&lt;code&gt;docx&lt;/code&gt;).
+`docx`).
 
 If you want to create a PDF, you'll need to have LaTeX installed. (See
 [MacTeX](http://tug.org/mactex/) on OS X, [MiKTeX](http://miktex.org/)
 on Windows, or install the texlive package in linux.) Then do
 
-&lt;code&gt;pandoc test1.md -s -o test1.pdf&lt;/code&gt;
+`pandoc test1.md -s -o test1.pdf`
 
 Step 7: Command-line options
 ----------------------------
@@ -347,30 +347,30 @@ You now know the basics. Pandoc has a lot of options. At this point you
 can start to learn more about them by reading the [User's
 Guide](http://pandoc.org/README.html).
 
-Here's an example. The &lt;code&gt;-S&lt;/code&gt; or
-&lt;code&gt;--smart&lt;/code&gt; option (you can use either form) causes
+Here's an example. The `-S` or
+`--smart` option (you can use either form) causes
 pandoc to produce curly quotes and proper dashes. Try it using pandoc as
 a filter. Type
 
-&lt;code&gt;pandoc --smart&lt;/code&gt; then enter this text, followed
-by &lt;code&gt;Ctrl-D&lt;/code&gt; (&lt;code&gt;Ctrl-Z&lt;/code&gt;
-followed by &lt;code&gt;Enter&lt;/code&gt; on Windows):
+`pandoc --smart` then enter this text, followed
+by `Ctrl-D` (`Ctrl-Z`
+followed by `Enter` on Windows):
 
-&lt;code&gt;“Hello there,” she said---and Sam didn't reply.&lt;/code&gt;
-Now try the same thing without &lt;code&gt;--smart&lt;/code&gt;. See the
+`“Hello there,” she said---and Sam didn't reply.`
+Now try the same thing without `--smart`. See the
 difference in output?
 
 If you forget an option, or forget which formats are supported, you can
 always do
 
-&lt;code&gt;pandoc --help&lt;/code&gt; to get a list of all the
+`pandoc --help` to get a list of all the
 supported options.
 
 On OS X or Linux systems, you can also do
 
-&lt;code&gt;man pandoc&lt;/code&gt; to get the pandoc manual page, or
+`man pandoc` to get the pandoc manual page, or
 
-&lt;code&gt;man pandoc\_markdown&lt;/code&gt; to get a description of
+`man pandoc\_markdown` to get a description of
 pandoc's markdown syntax. All of this information is also in the User's
 Guide.
 
