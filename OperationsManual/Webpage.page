@@ -1,0 +1,62 @@
+---
+format: markdown
+title: Webpage
+categories: OperationsManual 
+...
+
+Manage users
+------------
+
+1.  Log in with your MyUNL ID.
+2.  Click on **People** in the nav bar.
+
+### Adding Users
+
+1.  Click **+ Import User from UNL Directory**
+2.  Type the user's MyUNL ID and **Search**.
+3.  If the user is found, click the radio box and click **Add Selected
+    User**
+4.  In the user's Edit tab, select a role and click **Save**
+
+Piwik
+-----
+
+[Piwik Login](https://ucommsrv2.unl.edu/piwik/)
+
+Events Integration
+------------------
+
+[Operations Manual:Events](Operations_Manual:Events "wikilink")
+
+MediaHub Integration
+--------------------
+
+[Operations Manual:MediaHub](Operations_Manual:MediaHub "wikilink")
+
+Validator
+---------
+
+**Use the [UNL validator](https://validator.unl.edu/) after updating
+pages to make sure you are not introducing any new errors!**
+
+Web Audit
+---------
+
+[OS2G's Web Audit](https://webaudit.unl.edu/sites/1863/)
+
+[OS2G's long
+link](https://unlcms.unl.edu/computer-science-engineering/operating-systems/)
+
+### Adding users
+
+1.  Log into Web Audit
+2.  Click on **My Sites**
+3.  Click on OS2G
+4.  Click on Add/Edit Members
+5.  Click on Add a Member
+6.  Enter the new user's MyUNL ID
+7.  Select the user and click **Add Selected**
+
+Make sure your email is listed in your profile. If you have a
+[FIRPA](https://en.wikipedia.org/wiki/Family_Educational_Rights_and_Privacy_Act)
+block, you have to request that it's added manually.
