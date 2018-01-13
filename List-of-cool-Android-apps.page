@@ -2,7 +2,8 @@
 format: markdown
 title: List of cool Android apps
 categories: Cool Tools
---
+...
+
   Name                                                Description                                 Availability                                                                                                                                                                                                        License        Links                                                                                      Notes
   --------------------------------------------------- ------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------- ------------------------------------------------------------------------------------------ ------------------------------
   [K9 Mail](https://en.wikipedia.org/wiki/K-9_Mail)   | An open-source email client for Android   | [Google Play](https://play.google.com/store/apps/details?id=com.fsck.k9)&lt;br /&gt;[F-Droid](https://f-droid.org/repository/browse/?fdid=com.fsck.k9)&lt;br /&gt;[Amazon](http://www.amazon.com/dp/B004JK61K0)   | Apache 2.0   | [Homepage](https://k9mail.github.io/)&lt;br /&gt;[Code](https://github.com/k9mail/k-9)   | Compatible with OpenPGP...

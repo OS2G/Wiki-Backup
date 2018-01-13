@@ -2,7 +2,8 @@
 format: markdown
 title: Intro to the Shell
 categories: Resources
---
+...
+
 **Shell** is a user interface for access to an operating system's
 services. In general, operating system shells use either a command-line
 interface (CLI) or graphical user interface (GUI), depending on a

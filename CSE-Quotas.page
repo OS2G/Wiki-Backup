@@ -1,9 +1,9 @@
 ---
 format: markdown
 title: CSE Quotas
-categories: Resources
-FAQ
---
+categories: ResourcesFAQ
+...
+
 If you'd like to check what your Quota status is on CSE, use the
 &lt;pre&gt;quota -us&lt;/pre&gt; command. Ignore any and all “Connection
 Refused” errors.
