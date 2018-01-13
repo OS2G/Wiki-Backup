@@ -76,20 +76,20 @@ LaTeX. If strict markdown compatibility is desired, all of these
 extensions can be turned off.
 
 Installation
-------------
+============
 
 If you're unfamiliar with working with the command line please continue
 reading here. If not here's a link to the [man
 page](http://pandoc.org/MANUAL.html)!
 
 Step 1: Install pandoc
-----------------------
+======================
 
 First, install according to your
 [platform](http://pandoc.org/installing.html).
 
 Step 2: Open a terminal
------------------------
+=======================
 
 Pandoc is a command-line tool. There is no graphic user interface. So,
 to use it, you'll need to open a terminal window:
@@ -141,7 +141,7 @@ message telling you which version of pandoc is installed, and giving you
 some additional information.
 
 Step 3: Changing directories
-----------------------------
+============================
 
 First, let's see where we are. Type
 
@@ -211,7 +211,7 @@ To review:
 -   tab to complete directories and file names.
 
 Step 4: Using pandoc as a filter
---------------------------------
+================================
 
 Type
 
@@ -247,7 +247,7 @@ followed by `Enter` on Windows). You should see:
 from markdown to LaTeX. What command do you think you should use?
 
 Step 5: Text editor basics
---------------------------
+==========================
 
 You'll probably want to use pandoc to convert a file, not to read text
 from the terminal. That's easy, but first we need to create a text file
@@ -280,7 +280,7 @@ You might want to look at [Sublime Text](http://www.sublimetext.com/) or
 [Emacs](http://www.gnu.org/software/emacs).
 
 Step 6: Converting a file
--------------------------
+=========================
 
 Go back to your terminal. We should still be in the
 `Documents/pandoc-test` directory. Verify that
@@ -338,7 +338,7 @@ on Windows, or install the texlive package in linux.) Then do
 `pandoc test1.md -s -o test1.pdf`
 
 Step 7: Command-line options
-----------------------------
+============================
 
 You now know the basics. Pandoc has a lot of options. At this point you
 can start to learn more about them by reading the [User's
