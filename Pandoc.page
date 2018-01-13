@@ -4,9 +4,6 @@ title: Pandoc
 categories: FAQ Resources CoolTools
 ...
 
-Pandoc
-======
-
 If your like me and love to use markdown you may find yourself sad that
 you have to learn Media Wiki markup. Fear not
 [Pandoc](http://pandoc.org/) to the rescue! It can convert any text
