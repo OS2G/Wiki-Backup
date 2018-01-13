@@ -5,7 +5,7 @@ categories: Resources FAQ
 ...
 
 If you'd like to check what your Quota status is on CSE, use the
-&lt;pre&gt;quota -us&lt;/pre&gt; command. Ignore any and all “Connection
+<pre>quota -us</pre> command. Ignore any and all “Connection
 Refused” errors.
 
 More quota information can also be found on the [CSE Account Management

@@ -6,7 +6,7 @@ categories: OperationsManual
 
 This page will contain all the steps and tools necessary to
 create/prepare media such as photos, graphics, and videos (inc. Audio)
-for anything (OS)&lt;sub&gt;2&lt;/sub&gt;G related.
+for anything (OS)<sub>2</sub>G related.
 
 Programs & Tools
 ================
@@ -61,7 +61,7 @@ to make sure the corrected image does not look worse than the original
 image. This is also why partly correcting a distorted image may be
 better than fully correcting an image.
 
-&lt;small&gt;*Examples & settings coming soon*&lt;/small&gt;
+<small>*Examples & settings coming soon*</small>
 
 For the Website
 ---------------
@@ -80,19 +80,19 @@ they are to fit the site's content. IE: If it will be in a side column,
 make sure it fits the original width of the column as to not make it
 oddly larger or smaller than the content.
 
-&lt;small&gt;*Examples & settings coming soon*&lt;/small&gt;
+<small>*Examples & settings coming soon*</small>
 
 For Videos
 ----------
 
 Images can be created in GIMP and should generally contain the
-(OS)&lt;sub&gt;2&lt;/sub&gt;G logo as well as the content of the video
+(OS)<sub>2</sub>G logo as well as the content of the video
 and the main speaker. White background is what is typically used for the
 intro graphics. The image should be the same resolution as the video
 itself (usually 1920x1080 16:9). An ending graphic will contain the logo
 with a website URL on a black background.
 
-&lt;small&gt;*Templates & examples coming soon*&lt;/small&gt;
+<small>*Templates & examples coming soon*</small>
 
 Other Tools
 -----------
@@ -122,13 +122,13 @@ compressors, and more to achieve a better, or a desired sound outcome.
 There are many tools that can do this such as Sony Vegas, Adobe
 Audition, and more importantly, Audacity.
 
-&lt;small&gt;*More content coming soon*&lt;/small&gt;
+<small>*More content coming soon*</small>
 
 Video Editing
 =============
 
 While 3D animation and post-production compositing would be pretty
-awesome for (OS)&lt;sub&gt;2&lt;/sub&gt;G, it's not something we might
+awesome for (OS)<sub>2</sub>G, it's not something we might
 ever need to use, especially on a general basis. Because of this, this
 guide will simply go into the basics of video editing.
 
@@ -183,4 +183,4 @@ same.
     (mostly in user-friendliness and stability) to Adobe Premier Pro and
     Apple Final Cut.
 
-&lt;small&gt;*More content coming soon*&lt;/small&gt;
+<small>*More content coming soon*</small>

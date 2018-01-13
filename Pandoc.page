@@ -229,9 +229,9 @@ or Linux, or `Ctrl-Z` followed by
 `Enter` on Windows. You should now see your text
 converted to HTML!
 
-`&lt;p&gt;Hello &lt;em&gt;pandoc&lt;/em&gt;!&lt;/p&gt;
-&lt;ul&gt; &lt;li&gt;one&lt;/li&gt; &lt;li&gt;two&lt;/li&gt;
-&lt;/ul&gt;` What just happened? When pandoc is invoked
+`<p>Hello <em>pandoc</em>!</p>
+<ul> <li>one</li> <li>two</li>
+</ul>` What just happened? When pandoc is invoked
 without specifying any input files, it operates as a &quot;filter,&quot;
 taking input from the terminal and sending its output back to the
 terminal. You can use this feature to play around with pandoc.
@@ -241,8 +241,8 @@ But we can change that. Let's try converting *from* HTML *to* markdown:
 
 `pandoc -f html -t markdown` Now type:
 
-`&lt;p&gt;Hello
-&lt;em&gt;pandoc&lt;/em&gt;!&lt;/p&gt;` and hit
+`<p>Hello
+<em>pandoc</em>!</p>` and hit
 `Ctrl-D` (or `Ctrl-Z`
 followed by `Enter` on Windows). You should see:
 
