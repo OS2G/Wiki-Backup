@@ -5,7 +5,7 @@ categories: Resources
 ...
 
 Please note, before doing either action described herein, you must first
-[create an account](Special:CreateAccount "wikilink").
+[create an account](Special:CreateAccount).
 
 Creating a Page
 ---------------
@@ -50,4 +50,3 @@ website:
 -   [In-line
     Queries](https://www.semantic-mediawiki.org/wiki/Help:Inline_queries)
 
-<Category:Resources>

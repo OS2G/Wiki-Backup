@@ -10,11 +10,11 @@ This newly minted digital speakeasy has been a long time in the works
 and we're glad you're here.
 
 Pull up a chair, take a look around! To start making your personal page,
-click [here](Special:CreateAccount "wikilink").
+click [here](Special:CreateAccount).
 
-Alternatively, the **[Categories List](Special:Categories "wikilink")**,
-**[Resources](:Category:Resources "wikilink")** pages or the **[Wanted
-Pages](Wanted_Pages "wikilink")** list are a great place to begin your
+Alternatively, the **[Categories List](Special:Categories)**,
+**[Resources](:Category:Resources)** pages or the **[Wanted
+Pages](Wanted_Pages)** list are a great place to begin your
 adventure!
 
 Finally, we are using Semantic MediaWiki to generate semantic data
@@ -39,11 +39,11 @@ Wiki Help
 
 ### Internal Stuff
 
--   [Wiki Policies](OS2G_Wiki:Wiki_Policy "wikilink") -- A Work in
+-   [Wiki Policies](OS2G_Wiki:Wiki_Policy) -- A Work in
     Progress
--   [Plugin Discussion](OS2G_Wiki:Plugin_Discussion "wikilink") --
+-   [Plugin Discussion](OS2G_Wiki:Plugin_Discussion) --
     Propose plugins here!
--   [Setup Docs](OS2G_Wiki:Setup_Documentation "wikilink") -- A Work in
+-   [Setup Docs](OS2G_Wiki:Setup_Documentation) -- A Work in
     Progress, but where the wiki will eventually be documented.
 
 <Category:Resources>

@@ -9,33 +9,33 @@ Here's a list of pages we would like to see added to the Wiki:
 Intros
 ------
 
--   [Intro to Git](Intro_to_Git "wikilink")
--   [Intro to the Shell](Intro_to_the_Shell "wikilink")
--   [Intro to the Wiki](Intro_to_the_Wiki "wikilink")
+-   [Intro to Git](Intro_to_Git)
+-   [Intro to the Shell](Intro_to_the_Shell)
+-   [Intro to the Wiki](Intro_to_the_Wiki)
 
 Distros
 -------
 
--   [Gentoo](Gentoo "wikilink")
--   [Android](Android "wikilink")
-    -   [Lineage](Lineage "wikilink")
-    -   [Replicant](Replicant "wikilink")
-    -   [Limbo](Limbo "wikilink")
--   [Debian](Debian "wikilink")
-    -   [Ubuntu](Ubuntu "wikilink")
-    -   [Mint](Mint "wikilink")
+-   [Gentoo](Gentoo)
+-   [Android](Android)
+    -   [Lineage](Lineage)
+    -   [Replicant](Replicant)
+    -   [Limbo](Limbo)
+-   [Debian](Debian)
+    -   [Ubuntu](Ubuntu)
+    -   [Mint](Mint)
 
 Events
 ------
 
--   [Hacktoberfest](Hacktoberfest "wikilink")
+-   [Hacktoberfest](Hacktoberfest)
 
 Tips and Tricks
 ---------------
 
--   [Haskell Tips and Tricks](Haskell_Tips_and_Tricks "wikilink")
+-   [Haskell Tips and Tricks](Haskell_Tips_and_Tricks)
 -   [Common Lisp Tips and
-    Tricks](Common_Lisp_Tips_and_Tricks "wikilink")
+    Tricks](Common_Lisp_Tips_and_Tricks)
 
 OPS
 ---
@@ -48,17 +48,17 @@ OPS
 Privacy/Security
 ----------------
 
--   [TOR](TOR "wikilink")
--   [Kali Linux](Kali_Linux "wikilink")
+-   [TOR](TOR)
+-   [Kali Linux](Kali_Linux)
 
 Other
 -----
 
--   [BidWatcher](BidWatcher "wikilink")
--   [CSE Curriculum Notes](CSE_Curriculum_Notes "wikilink")
--   [Student Deals](Student_Deals "wikilink")
--   [QEMU](QEMU "wikilink")
--   [!Category:Professors](!Category:Professors "wikilink") -- List
+-   [BidWatcher](BidWatcher)
+-   [CSE Curriculum Notes](CSE_Curriculum_Notes)
+-   [Student Deals](Student_Deals)
+-   [QEMU](QEMU)
+-   [Professors](_category/Professors) -- List
     porfessors and include stuff about them -- particularly their
     research interests.
 
