@@ -6,41 +6,59 @@ categories:
 
 Here's a list of pages we would like to see added to the Wiki:
 
-`   == Intros ==`\
-`   * `[`Intro`` ``to`` ``Git`](Intro_to_Git "wikilink")\
-`   * `[`Intro`` ``to`` ``the`` ``Shell`](Intro_to_the_Shell "wikilink")\
-`   * `[`Intro`` ``to`` ``the`` ``Wiki`](Intro_to_the_Wiki "wikilink")
+Intros
+------
 
-`   == Distros == `\
-`   * `[`Gentoo`](Gentoo "wikilink")\
-`   * `[`Android`](Android "wikilink")\
-`   ** `[`Lineage`](Lineage "wikilink")\
-`   ** `[`Replicant`](Replicant "wikilink")\
-`   ** `[`Limbo`](Limbo "wikilink")\
-`   * `[`Debian`](Debian "wikilink")\
-`   ** `[`Ubuntu`](Ubuntu "wikilink")\
-`   ** `[`Mint`](Mint "wikilink")
+-   [Intro to Git](Intro_to_Git "wikilink")
+-   [Intro to the Shell](Intro_to_the_Shell "wikilink")
+-   [Intro to the Wiki](Intro_to_the_Wiki "wikilink")
 
-`   == Events ==`\
-`   * `[`Hacktoberfest`](Hacktoberfest "wikilink")
+Distros
+-------
 
-`   == Tips and Tricks ==`\
-`   * `[`Haskell`` ``Tips`` ``and`` ``Tricks`](Haskell_Tips_and_Tricks "wikilink")\
-`   * `[`Common`` ``Lisp`` ``Tips`` ``and`` ``Tricks`](Common_Lisp_Tips_and_Tricks "wikilink")
+-   [Gentoo](Gentoo "wikilink")
+-   [Android](Android "wikilink")
+    -   [Lineage](Lineage "wikilink")
+    -   [Replicant](Replicant "wikilink")
+    -   [Limbo](Limbo "wikilink")
+-   [Debian](Debian "wikilink")
+    -   [Ubuntu](Ubuntu "wikilink")
+    -   [Mint](Mint "wikilink")
 
-`   == OPS ==`\
-`   * Operations Manual`\
-`   ** Meeting Manual`\
-`   ** Services`\
-`   ** Etc.`
+Events
+------
 
-`   == Privacy/Security ==`\
-`   * `[`TOR`](TOR "wikilink")\
-`   * `[`Kali`` ``Linux`](Kali_Linux "wikilink")
+-   [Hacktoberfest](Hacktoberfest "wikilink")
 
-`   == Other ==`\
-`   * `[`BidWatcher`](BidWatcher "wikilink")\
-`   * `[`CSE`` ``Curriculum`` ``Notes`](CSE_Curriculum_Notes "wikilink")\
-`   * `[`Student`` ``Deals`](Student_Deals "wikilink")\
-`   * `[`QEMU`](QEMU "wikilink")\
-`   * `[`!Category:Professors`](!Category:Professors "wikilink")` -- List porfessors and include stuff about them -- particularly their research interests.`
+Tips and Tricks
+---------------
+
+-   [Haskell Tips and Tricks](Haskell_Tips_and_Tricks "wikilink")
+-   [Common Lisp Tips and
+    Tricks](Common_Lisp_Tips_and_Tricks "wikilink")
+
+OPS
+---
+
+-   Operations Manual
+    -   Meeting Manual
+    -   Services
+    -   Etc.
+
+Privacy/Security
+----------------
+
+-   [TOR](TOR "wikilink")
+-   [Kali Linux](Kali_Linux "wikilink")
+
+Other
+-----
+
+-   [BidWatcher](BidWatcher "wikilink")
+-   [CSE Curriculum Notes](CSE_Curriculum_Notes "wikilink")
+-   [Student Deals](Student_Deals "wikilink")
+-   [QEMU](QEMU "wikilink")
+-   [!Category:Professors](!Category:Professors "wikilink") -- List
+    porfessors and include stuff about them -- particularly their
+    research interests.
+

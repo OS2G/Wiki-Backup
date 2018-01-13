@@ -8,9 +8,10 @@ At the moment, we ask that only officers edit this page. If you have
 questions or comments, please discuss them on the [talk
 page](Talk:Server_Project "wikilink") or on the mailing list.
 
-`   == Specifications ==`
+Specifications
+--------------
 
-`   Just the current plan.  `**`Needs`` ``more`` ``research.`**
+Just the current plan. **Needs more research.**
 
   Image                                                                              Product                                                                                                                                   Unit Price                                                                                  Count      Total
   ---------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------- ---------- -----------
@@ -22,7 +23,7 @@ page](Talk:Server_Project "wikilink") or on the mailing list.
                                                                                                                                                                                                                                                                                                                            Taxes      \$212.77
                                                                                                                                                                                                                                                                                                                            Total      \$3049.76
 
-`   === Other Options ===`
+### Other Options
 
   Image                                                                              Product                                                                                                                                                                                                                                                          Unit Price                                                                                                                                                                                                                                                                                        Count      Total
   ---------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------- ------------
@@ -31,36 +32,38 @@ page](Talk:Server_Project "wikilink") or on the mailing list.
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         Taxes      \$261.75
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         Total      \$3751.75
 
-`   == Software ==`
+Software
+--------
 
-`   === Operating System ===`
+### Operating System
 
-`   One of the following:`\
-`   * CentOS`\
-`   * Debian Stable`\
-`   * OpenSUSE`\
-`   * ESXi (to host virtual machines)`\
-`   * Ubuntu Server LTS`
+One of the following:
 
-`   === Applications ===`
+-   CentOS
+-   Debian Stable
+-   OpenSUSE
+-   ESXi (to host virtual machines)
+-   Ubuntu Server LTS
 
-`   * Virtualization`\
-`   ** The Wiki -- will involve a migration`\
-`   ** Officer's Kanban board (possibly?)`\
-`   ** IRC/Chat server (Possibly XMPP?)`\
-`   ** Games`\
-`   *** FreeCiv Longturn`\
-`   *** OpenRA`\
-`   * Cloud`\
-`   ** Eucalyptus`\
-`   ** OpenStack`\
-`   * Personal Web pages?`\
-`   ** nginx`\
-`   ** PHP (If someone can set it up securely)`\
-`   * Storage`\
-`   * Project Hosting?`\
-`   * Possible others?`\
-`   * Docker hosting?`\
-`   ** Wiki (can go here)`
+### Applications
+
+-   Virtualization
+    -   The Wiki -- will involve a migration
+    -   Officer's Kanban board (possibly?)
+    -   IRC/Chat server (Possibly XMPP?)
+    -   Games
+        -   FreeCiv Longturn
+        -   OpenRA
+-   Cloud
+    -   Eucalyptus
+    -   OpenStack
+-   Personal Web pages?
+    -   nginx
+    -   PHP (If someone can set it up securely)
+-   Storage
+-   Project Hosting?
+-   Possible others?
+-   Docker hosting?
+    -   Wiki (can go here)
 
 <Category:Resources>

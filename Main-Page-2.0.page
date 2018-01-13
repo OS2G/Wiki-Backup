@@ -4,21 +4,31 @@ title: Main Page 2.0
 categories: Resources
 ...
 
-`     ----`\
-`     Welcome to the (OS)2G wiki!  We'd love to have you contribute your technical knowledge!  A couple good places to start are the `[`Categories`` ``List`](Special:Categories "wikilink")` or the `[`Resources`](:Category:Resources "wikilink")` pages.`
+------------------------------------------------------------------------
 
-`     Furthemore, we'd love to grow the wiki in Semantic information, and thus we are using Semantic MediaWiki.`
+Welcome to the (OS)2G wiki! We'd love to have you contribute your
+technical knowledge! A couple good places to start are the [Categories
+List](Special:Categories "wikilink") or the
+[Resources](:Category:Resources "wikilink") pages.
 
-`     == Wiki Help ==`
+Furthemore, we'd love to grow the wiki in Semantic information, and thus
+we are using Semantic MediaWiki.
 
-`     === MediaWiki ===`
+Wiki Help
+---------
 
-`     * `[`MediaWiki`` ``FAQ`](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:FAQ)
+### MediaWiki
 
-`     === Semantic Media Wiki ===`
+-   [MediaWiki
+    FAQ](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:FAQ)
 
-`     * `[`Getting`` ``Started`` ``with`` ``SMW`](https://www.semantic-mediawiki.org/wiki/Help:Getting_started)\
-`     * `[`In-text`` ``Annotations`](https://www.semantic-mediawiki.org/wiki/Help:In-text_annotation)\
-`     * `[`In-line`` ``Queries`](https://www.semantic-mediawiki.org/wiki/Help:Inline_queries)
+### Semantic Media Wiki
+
+-   [Getting Started with
+    SMW](https://www.semantic-mediawiki.org/wiki/Help:Getting_started)
+-   [In-text
+    Annotations](https://www.semantic-mediawiki.org/wiki/Help:In-text_annotation)
+-   [In-line
+    Queries](https://www.semantic-mediawiki.org/wiki/Help:Inline_queries)
 
 <Category:Resources>

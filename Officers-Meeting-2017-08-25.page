@@ -7,37 +7,45 @@ categories:
 Adviser
 -------
 
-`   * Witty is going on sabbatical next year`\
-`   * Adviser search/selection process`\
-`   * Options`\
-`   ** Ann Koopmann`\
-`   ** Chris Bourke`\
-`   ** Carl Lundstedt`\
-`   ** Donald Costello`
+-   Witty is going on sabbatical next year
+-   Adviser search/selection process
+-   Options
+    -   Ann Koopmann
+    -   Chris Bourke
+    -   Carl Lundstedt
+    -   Donald Costello
 
-`   == Elections ==`\
-`   * Need to add elections to the schedule`\
-`   ** Push them out some time in early November`
+Elections
+---------
 
-`   == Constitution Changes ==`\
-`   * Sam will write a proposal`\
-`   * We'll take care of this at the next game meeting`\
-`   ** Cover Sam's proposal`\
-`   ** Allow open forum with the rest of members`
+-   Need to add elections to the schedule
+    -   Push them out some time in early November
 
-`   == eSAB SPF Funding ==`\
-`   * Should we go small or large?`\
-`   * Decide on new capital goods`\
-`   ** New Server?`\
-`   ** Hypervisor should be manageable by libvirt`\
-`   *** Host website`\
-`   **** Wiki page (can teach how to use the chat)`\
-`   *** Chat client`\
-`   **** IRC`\
-`   **** XMPP based platform`\
-`   **** Maybe even set up both IRC and XMPP`
+Constitution Changes
+--------------------
 
-`   == Game Day ==`\
-`   * Set up the Doodle soon`
+-   Sam will write a proposal
+-   We'll take care of this at the next game meeting
+    -   Cover Sam's proposal
+    -   Allow open forum with the rest of members
+
+eSAB SPF Funding
+----------------
+
+-   Should we go small or large?
+-   Decide on new capital goods
+    -   New Server?
+    -   Hypervisor should be manageable by libvirt
+        -   Host website
+            -   Wiki page (can teach how to use the chat)
+        -   Chat client
+            -   IRC
+            -   XMPP based platform
+            -   Maybe even set up both IRC and XMPP
+
+Game Day
+--------
+
+-   Set up the Doodle soon
 
 [Category:Officer's Meetings](Category:Officer's_Meetings "wikilink")

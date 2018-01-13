@@ -5,77 +5,80 @@ categories:
 ...
 
 -   Sam needs reimbursement
-
-`   ** Valentinos (Linux's Birthday, $98.59)`\
-`   ** Papa Johns (September 6, $33.64)`\
-`   ** Pinebook`\
-`   *** Mitch will get the reimbursements for the Pinebooks`\
-`   ** Future funding is more important than reimbursement`\
-`   * Current account balance on NvolveU (treasury)`\
-`   * Put keysigning party on the front page of the website`\
-`   * 8 events with a food budget of $90, 3 meetings with a food budged of $50`\
-`   * Funding`\
-`   ** Give Back Big`\
-`   *** $1,000 for outreach event`\
-`   *** Applications due October 25 at 5:00 p.m.`\
-`   ** Green Fund (ASUN)`\
-`   ** We want a &quot;swag&quot; budged of $50`\
-`   *** Contact EFF and FSF about stickers`\
-`   ** Ask department for $1,400, ask eSAB for $700?`\
-`   ** Fundraiser: Kickstarter? Pre-sell VirtualBoxes?`\
-`   ** Boian will work on a budget proposal and send it to Mitch`\
-`   ** Should we get 501c status?'`\
-`   ** Talk to people outside the university about funding`\
-`   * Server`\
-`   ** We must use SSD (at least 4TB)`\
-`   ** At least 16GB RAM`\
-`   ** What's our price range?`\
-`   *** Estimated $2,250`\
-`   ** We will probably need to get the money from multiple organizations`\
-`   ** More members and outreach will help us reach our funding goal`\
-`   ** Emphasize that the server is a long-term investment`\
-`   ** Must be new (less likely to break)`\
-`   * Adviser Search`\
-`   ** Bourke already agreed`\
-`   ** Ask Witty if he wants to continue as our adviser after his sabbatical`\
-`   *** Mitch will talk to him`\
-`   ** Mark Bauer said &quot;no&quot; in the past but may agree now`\
-`   ** Carl?`\
-`   * Recognition Awards`\
-`   ** eSAB Student: Michael Baumfalk?`\
-`   * Ops Guide`\
-`   ** Need to begin creating this`\
-`   ** Collect all knowledge and procedures`\
-`   ** Write it in Markdown`\
-`   ** Start on Github`\
-`   ** Formalize meeting announcment procedure`\
-`   *** Mailing list`\
-`   *** Bits &amp; Bytes`\
-`   *** Engineering mailing list`\
-`   *** Avery screens`\
-`   *** Other screens`\
-`   *** Nvolved text message`\
-`   ** Presentation template`\
-`   *** Impress? Beamer? or not program-specific?`\
-`   ** To do list?`\
-`   *** Trello or Gitlab?`\
-`   *** Decide over email`\
-`   ** Meeting structure`\
-`   *** Elections first (if needed)`\
-`   *** Meeting introduction (5 minutes)`\
-`   *** Announcements (15 minutes)`\
-`   *** Let people get food before the main event`\
-`   *** Presentation/event (1 hour)`\
-`   *** Cool Tools (10 minutes, everyone gets 2 minutes)`\
-`   **** Draw presenters from a hat (preferably fedora)`\
-`   * Consider having weekly meetings on a day other than Wednesday`\
-`   * October Meetings`\
-`   ** Definitely have the Git presentation`\
-`   ** Make Hackathon 2 or 3 meetings`\
-`   *** Not in a lab (so we can have pizza!)`\
-`   ** Informal poll to see if people want a programming language presentation`\
-`   *** Python? SQL?`\
-`   * Elections: First week of November`\
-`   ** Everybody must be reelected for their positions`
+    -   Valentinos (Linux's Birthday, \$98.59)
+    -   Papa Johns (September 6, \$33.64)
+    -   Pinebook
+        -   Mitch will get the reimbursements for the Pinebooks
+    -   Future funding is more important than reimbursement
+-   Current account balance on NvolveU (treasury)
+-   Put keysigning party on the front page of the website
+-   8 events with a food budget of \$90, 3 meetings with a food budged
+    of \$50
+-   Funding
+    -   Give Back Big
+        -   \$1,000 for outreach event
+        -   Applications due October 25 at 5:00 p.m.
+    -   Green Fund (ASUN)
+    -   We want a &quot;swag&quot; budged of \$50
+        -   Contact EFF and FSF about stickers
+    -   Ask department for \$1,400, ask eSAB for \$700?
+    -   Fundraiser: Kickstarter? Pre-sell VirtualBoxes?
+    -   Boian will work on a budget proposal and send it to Mitch
+    -   Should we get 501c status?'
+    -   Talk to people outside the university about funding
+-   Server
+    -   We must use SSD (at least 4TB)
+    -   At least 16GB RAM
+    -   What's our price range?
+        -   Estimated \$2,250
+    -   We will probably need to get the money from multiple
+        organizations
+    -   More members and outreach will help us reach our funding goal
+    -   Emphasize that the server is a long-term investment
+    -   Must be new (less likely to break)
+-   Adviser Search
+    -   Bourke already agreed
+    -   Ask Witty if he wants to continue as our adviser after his
+        sabbatical
+        -   Mitch will talk to him
+    -   Mark Bauer said &quot;no&quot; in the past but may agree now
+    -   Carl?
+-   Recognition Awards
+    -   eSAB Student: Michael Baumfalk?
+-   Ops Guide
+    -   Need to begin creating this
+    -   Collect all knowledge and procedures
+    -   Write it in Markdown
+    -   Start on Github
+    -   Formalize meeting announcment procedure
+        -   Mailing list
+        -   Bits &amp; Bytes
+        -   Engineering mailing list
+        -   Avery screens
+        -   Other screens
+        -   Nvolved text message
+    -   Presentation template
+        -   Impress? Beamer? or not program-specific?
+    -   To do list?
+        -   Trello or Gitlab?
+        -   Decide over email
+    -   Meeting structure
+        -   Elections first (if needed)
+        -   Meeting introduction (5 minutes)
+        -   Announcements (15 minutes)
+        -   Let people get food before the main event
+        -   Presentation/event (1 hour)
+        -   Cool Tools (10 minutes, everyone gets 2 minutes)
+            -   Draw presenters from a hat (preferably fedora)
+-   Consider having weekly meetings on a day other than Wednesday
+-   October Meetings
+    -   Definitely have the Git presentation
+    -   Make Hackathon 2 or 3 meetings
+        -   Not in a lab (so we can have pizza!)
+    -   Informal poll to see if people want a programming language
+        presentation
+        -   Python? SQL?
+-   Elections: First week of November
+    -   Everybody must be reelected for their positions
 
 [Category:Officer's Meetings](Category:Officer's_Meetings "wikilink")
