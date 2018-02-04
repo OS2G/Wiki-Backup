@@ -1,14 +1,21 @@
 These tips and tricks will be based around using the Unity Game Engine. Unreal tips and tricks will be added later (hopefully).
 
-#Contents
+# Contents
 1. Tools / Where to Find Them
 2. Known Helpful Tutorials
-3. FAQs
+3. Brief Guide
+4. FAQs
 
 # Tools
+
 ## Unity Game Engine
 The [Unity Game Engine](https://www.unity3d.com) is a game engine built by Unity Technologies. This engine is free to use for non-commercial use and requires a license for commercial use. 
 
 Any questions about specific components can be directed to the [official Unity Game Engine documentation](https://docs.unity3d.com/Manual/index.html). The documentation pages are very detailed and each page includes examples of how to use each component it is describing.
-##3-D Modelling
-3-D Modelling software can include
+
+## 3-D Modelling
+3-D Modelling software can include programs such as [https://krita.org/en](Krita), [https://www.blender.org](Blender), and [Adobe products](www.adobe.com/CreativeCloud‎). This guide will be based on using **Blender**.
+
+## Audio Software
+[Audacity](http://www.audacityteam.org/) is a free program that will be the basis of this tutorial. It allows you to record audio, add effects, clip, overlay audio clips, and more.
+
