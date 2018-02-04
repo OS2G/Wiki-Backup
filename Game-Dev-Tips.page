@@ -35,12 +35,18 @@ Helpful Audacity resources include the following:
 
 # Brief Guide to Using Each Tool
 
+
 # Frequently Asked Questions
+In this section, this wiki guide will address various questions and responses gathered from OS2G members.
 
 ## How do I import a model from Blender into Unity?
+Once your object is ready to import, click on File > Export and choose the desired format. It is highly recommend to use the Collada (.dae) format, as that is a universally recognized format for 3D models.
 
 ## How do I scale an object in Blender?
+In Blender, the "Tools" menu contains a Transform menu. By default, this is located in the top left corner of the window. Under Transform, there is a scale option. Once you select the scale option, a Resize menu should appear in the bottom left corner of the window. There, you can resize your object by adjusting individual axes.
 
 ## How do I scale an object in Unity?
 
-## I don't know C#, but I know other languages. Are there any good guides to learning C# syntax?
+
+## Are there any good guides to learning C# syntax?
+
