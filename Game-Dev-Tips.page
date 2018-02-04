@@ -57,3 +57,6 @@ Other great resources include:
 - [Udemy tutorials](https://www.udemy.com)
 
 If you are experienced in other programming languages but are looking to learn C# as well, you can start with the beginner tutorials to adjust to the syntax. After that, it is highly recommended you study the [Official Microsoft Documentation Pages](https://msdn.microsoft.com/library) to learn advanced data structures and methods to enhance your C# skills.
+
+## How do I know what controller button to map to my input?
+If you are using an Xbox 360 controller, you can find the controller mappings on the [Unity Xbox 360 contoller wiki page](http://wiki.unity3d.com/index.php?title=Xbox360Controller)
