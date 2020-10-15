@@ -1,0 +1,12 @@
+The BOX is OS2G’s primary container for our various meeting supplies. It
+contains the following
+
+  - [GoPro Hero4 Black](https://gopro.com/help/HERO4-Black) and
+    accessories
+  - plates/napkins
+  - [Pinebooks](https://www.pine64.org/?page_id=3707)
+  - [Arty](http://store.digilentinc.com/arty-a7-artix-7-fpga-development-board-for-makers-and-hobbyists/)
+  - Various other electronics
+
+If you would like to contact OS2G about the box, please see our
+[Officers](:Category:Officer).

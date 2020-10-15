@@ -1,0 +1,81 @@
+Adapted from a Word document received on 2017-03-08. Covers fiscal year
+2017-2018.
+
+## Ross Theatre Rental Costs
+
+| Cost/Hour | Entity                                             |
+| :-------- | :------------------------------------------------- |
+| $350      | University of Nebraska Departments & Organizations |
+| $600      | Non University Non-Profit Organizations            |
+| $1,150    | Non University Organizations & Businesses          |
+
+Cooper Theatre – Seats 250
+
+| Cost/Hour | Entity                                             |
+| :-------- | :------------------------------------------------- |
+| $250      | University of Nebraska Departments & Organizations |
+| $450      | Non University Non-Profit Organizations            |
+| $850      | Non University Organizations & Businesses          |
+
+South Theatre – Seats 105
+
+| Cost/Hour | Entity                                             |
+| :-------- | :------------------------------------------------- |
+| $50       | University of Nebraska Departments & Organizations |
+| $75       | Non University Non-Profit Organizations            |
+| $100      | Non University Organizations & Businesses          |
+
+Library/Conference Room – Seats 21
+
+The above fees include:
+
+  - Projectionist time
+  - Set up of microphones if requested
+  - 1 week advertisement of event on our website and inclusion of event
+    in weekly email to members.
+  - Use of 65” LED HD Monitor (with wireless Internet connectivity) &
+    7.1 Digital Surround Sound Blu-Ray Home Theater Systems in Library.
+
+### Staff Time
+
+If the event requires Ross Staff to assist in the event set-up there
+will be a $25 per hour charge with a minimum of one hour. A $50 clean-up
+fee will be assessed if clean-up of the Theatres is required by any of
+The Ross Staff.
+
+### Cancellation
+
+If the event is canceled, there will be a $50.00 cancellation fee
+assessed.
+
+### Other
+
+The Director of the Mary Riepma Ross Media Arts Center reserves the
+right to change the terms of this agreement at his discretion. Rentals
+are not allowed on Friday evenings, Saturday afternoons and evenings, or
+Sunday afternoons.
+
+The sponsor will ensure that all activities at this event comply with
+state law, city ordinances and protect the health and safety of all
+persons involved. By signing this Ross Media Arts Center Rental
+Agreement, the vent sponsor agrees to hold the Mary Riepma Ross Media
+Arts Center and the Board of Regents of the University of Nebraska
+harmless from all claims for suits for bodily injury, including death,
+and for property damage arising out of the use of University of Nebraska
+facilities as described in this agreement.
+
+## Van Brunt Visitors Center Rental Fees
+
+| Cost/Hour | Entity                                             |
+| :-------- | :------------------------------------------------- |
+| $500      | University of Nebraska Departments & Organizations |
+| $750      | Non University Non-Profit Organizations            |
+| $1500     | Non University Organizations & Businesses          |
+
+Great Hall
+
+| Cost/Hour | Entity                                             |
+| :-------- | :------------------------------------------------- |
+| 250       | University of Nebraska Departments & Organizations |
+
+Presentation Room

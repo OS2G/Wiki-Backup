@@ -1,0 +1,3 @@
+| Name                                                                                         | Description                                                                      | License   | Links | Notes |
+| :------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------- | :-------- | :---- | :---- |
+| [Bookmark 301 Updater](https://addons.mozilla.org/en-US/firefox/addon/bookmark-301-updater/) | | Automatically update bookmarks for permanently moved resources, while browsing | | MPLv2.0 | |     | |     |

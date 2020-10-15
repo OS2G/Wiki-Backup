@@ -1,0 +1,9 @@
+## Links
+
+  - [View](https://events.unl.edu/OS2G/)
+  - [Manage](https://events.unl.edu/manager/OS2G/)
+
+## Managing Users
+
+You need to sign into your personal calendar before you can be added as
+a user in the OS2G calendar.

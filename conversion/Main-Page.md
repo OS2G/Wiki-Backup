@@ -1,0 +1,40 @@
+<strong>Welcome to the (OS)2G wiki\!</strong>
+
+This newly minted digital speakeasy has been a long time in the works
+and we’re glad you’re here.
+
+Pull up a chair, take a look around\! To start making your personal
+page, click [here](Special:CreateAccount).
+
+Alternatively, the **[Categories List](Special:Categories)**,
+**[Resources](:Category:Resources)** pages or the **[Wanted
+Pages](Wanted_Pages)** list are a great place to begin your adventure\!
+
+Finally, we are using Semantic MediaWiki to generate semantic data
+anyone is welcome to use.
+
+## Wiki Help
+
+### MediaWiki Markup Help
+
+  - [Wiki Format](https://www.mediawiki.org/wiki/Help:Formatting)
+  - [Help (Category)](https://www.mediawiki.org/wiki/Category:Help)
+
+### Semantic Media Wiki
+
+  - [Getting Started with
+    SMW](https://www.semantic-mediawiki.org/wiki/Help:Getting_started)
+  - [In-text
+    Annotations](https://www.semantic-mediawiki.org/wiki/Help:In-text_annotation)
+  - [In-line
+    Queries](https://www.semantic-mediawiki.org/wiki/Help:Inline_queries)
+
+### Internal Stuff
+
+  - [Wiki Policies](OS2G_Wiki:Wiki_Policy) – A Work in Progress
+  - [Plugin Discussion](OS2G_Wiki:Plugin_Discussion) – Propose plugins
+    here\!
+  - [Setup Docs](OS2G_Wiki:Setup_Documentation) – A Work in Progress,
+    but where the wiki will eventually be documented.
+
+<Category:Resources>

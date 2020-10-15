@@ -1,0 +1,13 @@
+## Brief Description
+
+NixOS is a Linux Distribution designed with a state-less, central
+configuration system as its core feature.
+
+## Websites
+
+  - [NixOS](https://nixos.org)
+
+## This is why it’s cool
+
+NixOS lets me move from one computer to another in a handful of
+commands, a git pull and a ‘nixos-install’ and I’m done.

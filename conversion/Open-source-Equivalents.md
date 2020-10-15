@@ -1,0 +1,10 @@
+There are many open-source equivalents for every piece of closed-source
+software and hardware. This page will provide a list of equivalents for
+many common closed-source pieces of software.
+
+| Common Software                    | Open-source Equivalent                                                                           | Information                                                                                                                    |
+| :--------------------------------- | :----------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------- |
+| Windows / Mac OS                   | [Linux](https://en.wikipedia.org/wiki/Linux)                                                     | Linux is an open-source operating system that has many free distributions that the general public may use.                     |
+| Microsoft Office                   | [Libre Office](https://www.libreoffice.org) / [Open Office](https://www.openoffice.org)          | Both are open-source equivalents of the Microsoft Office Suite. Both can use and save in the Microsoft Office format.          |
+| Internet Explorer / Microsoft Edge | [Firefox](https://www.mozilla.org/en-US/firefox) / [Chromium (Chrome)](https://www.chromium.org) | Both are open-source browsers that are just as good if not better than the Microsoft Equivalents.                              |
+| Photoshop                          | [GIMP](https://www.gimp.org)                                                                     | A very robust and feature filled program that can do many of the same things Photoshop can. Takes a little bit to get used to. |

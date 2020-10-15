@@ -1,0 +1,16 @@
+## Brief Description
+
+FocusWriter is a distraction-free writing program that allows you to get
+your work done and track your progress *in style.* It has a variety of
+pre-made themes, plus the option to create your own themes.
+
+## Websites
+
+  - [FocusWriter’s official website](https://gottcode.org/focuswriter/)
+
+## This is why it’s cool
+
+A E S T H E T I C
+
+Also, it has typewriter sound effects. If you need a gimmick to make
+yourself write, this is exactly what you need.

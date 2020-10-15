@@ -1,0 +1,15 @@
+**Open-source**, the premise of this group, is the opening of a
+project’s source to the general community. A project or piece of
+software is considered open-source if its original blueprints, plans,
+source code, or anything of that sort is released in its original,
+editable, and usable form to the community for the general public and
+use. This allows developers or anyone for that matter, to take the
+original project, and modify it to their needs, or add to the project,
+with accreditation to the original developers and owners.
+
+An example of open-source software would be the Linux operating system.
+Anyone can take the original code of the kernel and modify it to their
+needs to make it work on their own hardware.
+
+Open-source is the opposite of closed-source which is where all the code
+and plans are kept in secret, hidden from the general public.

@@ -1,0 +1,40 @@
+## New Website
+
+  - Suggestion of [A-Frame](https://aframe.io/)
+      - Mozilla product
+      - Jonathan should test directly on the current website
+  - Wiki
+  - Add event page
+  - Web-frontend Chat
+      - IRC?
+  - Hosting at 000webhost?
+      - Possibly use this temporarily in the beginning
+  - Analytics
+      - Open source
+          - [Piwik](https://piwik.org/)
+              - Complies with EU privacy laws
+              - Respects DNT
+
+## Big Red Welcome
+
+  - Make trifold board
+  - Advertise Linux’s Birthday event
+
+## Linux’s 25th Birthday
+
+  - Show open source alternatives to proprietary software
+      - LibreOffice
+      - GIMP
+      - Wine with games and Steam
+          - Who has it running and working?
+  - Regan will bake a cake
+      - Cannot give/sell homemade food during Union events.
+  - Go over Linux history
+      - Sam will constrict a short presentation
+  - Distro showcase
+      - Ubuntu/Mint
+      - Fedora
+      - openSUSE
+          - Boian will create the demo
+  - **Get it onto Bits and Bytes newsletter**
+      - **Must be done by the 22nd of August**

@@ -1,0 +1,42 @@
+Please note, before doing either action described herein, you must first
+[create an account](Special:CreateAccount).
+
+## Creating a Page
+
+After making a thorough search as to whether the page you would like to
+create does not already exist or if a very similar page does not already
+exist, in the search bar, search for the page you would like to create,
+then click on the “create this page” link underneath the search options.
+That will take you to create the page you were searching for if it does
+not exist.
+
+## Editing a Page
+
+To edit a page, simply go to the page in question and select “Edit” in
+the menu on the upper left side in line with the search box.
+
+## Content & Formatting
+
+The point of this wiki is to inform and help others. Don’t create a page
+or make an edit to be funny, that won’t help anyone and will only cause
+turmoil for everyone.
+
+Simply be informative in your works with a lack of bias/opinion allowing
+for information to be spread in the best and least tainted way possible.
+
+To learn formatting, there are many useful pages on the Mediawiki
+website:
+
+### MediaWiki Markup Help
+
+  - [Wiki Format](https://www.mediawiki.org/wiki/Help:Formatting)
+  - [Help (Category)](https://www.mediawiki.org/wiki/Category:Help)
+
+### Semantic Media Wiki
+
+  - [Getting Started with
+    SMW](https://www.semantic-mediawiki.org/wiki/Help:Getting_started)
+  - [In-text
+    Annotations](https://www.semantic-mediawiki.org/wiki/Help:In-text_annotation)
+  - [In-line
+    Queries](https://www.semantic-mediawiki.org/wiki/Help:Inline_queries)

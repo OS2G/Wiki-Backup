@@ -1,0 +1,58 @@
+**Shell** is a user interface for access to an operating system’s
+services. In general, operating system shells use either a command-line
+interface (CLI) or graphical user interface (GUI), depending on a
+computer’s role and particular operation. It is named a shell because it
+is the outermost layer around the operating system kernel.
+
+On most systems, access to the shell happens through Command Prompt
+(Windows) or Terminal (Unix-based) when trying to use CLI. Running
+commands and programs using CLI can be very useful as much more control
+can be achieved as well as more information is typically displayed to
+the user.
+
+## Unix
+
+### Common Commands
+
+| Command | Usage                                                                | Syntax                                                                                                  |
+| :------ | :------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------ |
+| cd      | Changes directory                                                    | $ cd /directory/subdirectory or ../subdirectory (.. goes up one directory)                              |
+| ls      | Lists all current files and folders in a directory                   | $ ls -a (-a shows all files and folders including hidden ones)                                          |
+| mkdir   | Allows creation of a new directory                                   | $ mkdir testFolder                                                                                      |
+| cp      | Copies files (or folder) to another location                         | $ cp /directory/originalFile /newDirectory/copiedFile                                                   |
+| mv      | Moves files (or folder) to another location                          | $ mv /directory/originalFile /newDirectory/movedFile                                                    |
+| rm      | Removes files or folders (deletes permanently)                       | $ rm testFiles or rm -r testFolder (-r is recursive, allowing the removal of folders filled with files) |
+| man     | Shows documentation for a program / command                          | $ man cd                                                                                                |
+| grep    | Searches for a string in a file or program output                    | $ grep -i “testString” testFile                                                                         |
+| ssh     | Allow tunneling to a remote shell (remote desktop, but only for CLI) | $ ssh user@host.domain                                                                                  |
+| top     | Shows a list of current running processes on the computer            | $ top -u userName (-u will only show processes ran by a certain user)                                   |
+| exit    | Ends current session                                                 | $ exit                                                                                                  |
+
+Many commands have help files, to access them, append `--help` to the
+end of the command which will often bring up a list of syntax options.
+
+## Windows
+
+Windows has two major ways to access the CLI shell: Windows Power Shell
+(PS) and Command Prompt (CMD). CMD is the classic, DOS-like shell that
+has all the basic commands to be able to do most of what you want;
+however, PS has much more functionality and is able to take any CMD
+commands and run them. PS is a lot more similar to Linux shell in syntax
+as well.
+
+### Command Prompt
+
+| Command | Usage                                                             | Syntax                                                                            |
+| :------ | :---------------------------------------------------------------- | :-------------------------------------------------------------------------------- |
+| cd      | Changes directory                                                 | \> cd \\directory\\subdirectory or ..\\subdirectory (.. goes up one directory)    |
+| dir     | Lists all current files and folders in a directory                | \> dir /a (/a shows all files and folders including hidden ones)                  |
+| mkdir   | Allows creation of a new directory                                | \> mkdir testFolder                                                               |
+| copy    | Copies files (or folder) to another location                      | \> copy \\directory\\originalFile \\newDirectory\\copiedFile                      |
+| move    | Moves files (or folder) to another location                       | \> move \\directory\\originalFile \\newDirectory\\movedFile                       |
+| del     | Removes files or folders (deletes permanently)                    | \> del testFile or del /F readOnlyFile (/F allows the removal of read-only files) |
+| help    | Shows all commands or shows documentation for a program / command | \> help copy                                                                      |
+| find    | Searches for a string in a file or program output                 | \> find “testString” testFile                                                     |
+| exit    | Ends current session                                              | \> exit                                                                           |
+
+Many commands have help files, to access them, append `/?` to the end of
+the command which will often bring up a list of syntax options.

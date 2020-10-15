@@ -1,0 +1,6 @@
+If you’d like to check what your Quota status is on CSE, use the
+<code>quota -us</code> command on the UNIX server. Ignore any and all
+“Connection Refused” errors.
+
+More quota information can also be found on the [CSE Account Management
+Utility Portal](http://cse.unl.edu/account)
